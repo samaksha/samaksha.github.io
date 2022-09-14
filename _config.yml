@@ -10,7 +10,7 @@ name: Kumar Samaksha
 title: Software Engineer
 email: kumarsamaksha21@gmail.com
 website: https://samaksha.github.io/
-
+Phone : +91 7004903719
 # Dark Mode (true/false/never)
 darkmode: true
 
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/1597822945430.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kumar Samaksha and I'm a Software Engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
@@ -69,14 +69,14 @@ content:
           I spent a lot of my free time as a Technical member of the *Robotics Club* and also taking on the role of a *Mentor*.
   
 
-  EXPERIENCE
-INTELLIH | Software Engineer
-August 2022 - Present | Kolkata , WB
-• Reduced the risk of worsening condition by constant monitoring and
-automating alerts to hospital staff and patients.
-• Built the widget using Angular and backend using ASP.NET and SQL.
-FASTENAL | Software Engineering Intern
-Jan 2022 – May 2022 | Bengaluru , KA
+#   EXPERIENCE
+# INTELLIH | Software Engineer
+# August 2022 - Present | Kolkata , WB
+# • Reduced the risk of worsening condition by constant monitoring and
+# automating alerts to hospital staff and patients.
+# • Built the widget using Angular and backend using ASP.NET and SQL.
+# FASTENAL | Software Engineering Intern
+# Jan 2022 – May 2022 | Bengaluru , KA
 
 
 
