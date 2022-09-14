@@ -85,7 +85,7 @@ content:
     content:
       - layout: left
         title: INTELLIH
-        link: fastenal.com
+        link: Intellihinc.com
         # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: August 2022 - Present
@@ -96,8 +96,8 @@ content:
             -Built the widget using Angular and backend using ASP.NET and SQL.
 
       - layout: left
-        titile : ok
-        link: Intellihinc.com
+        titile : Fastenal
+        link: fastenal.com
         # link_text: boringcompany.com
         sub_title: Software Engineer Intern
         caption: Jan 2022 - Jun 2022
@@ -121,7 +121,7 @@ content:
     content:
       - layout: left
         title: SME PLATFORM 
-        link: https://play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
+        link: play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
         # link_text: Project Website
         additional_links:
           - title:  github.com/samaksha
@@ -139,7 +139,7 @@ content:
 
         - layout: left
           title: CALCULATOR
-          link: https://github.com/samaksha/C-/tree/master/KnowledgeBase/Js
+          link: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
           # link_text: Project Website
           additional_links:
             - title:  github.com/samaksha
@@ -155,7 +155,7 @@ content:
           - Re-implemented the UI using Angular
 
         - layout: left
-        link: https://github.com/hackabit19/EDITH
+        link: github.com/hackabit19/EDITH
           # link_text: Project Website
           additional_links:
             - title:  github.com/samaksha
