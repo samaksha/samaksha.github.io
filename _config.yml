@@ -69,15 +69,6 @@ content:
           I spent a lot of my free time as a Technical member of the *Robotics Club* and also taking on the role of a *Mentor*.
   
 
-#   EXPERIENCE
-# INTELLIH | Software Engineer
-# August 2022 - Present | Kolkata , WB
-# • Reduced the risk of worsening condition by constant monitoring and
-# automating alerts to hospital staff and patients.
-# • Built the widget using Angular and backend using ASP.NET and SQL.
-# FASTENAL | Software Engineering Intern
-# Jan 2022 – May 2022 | Bengaluru , KA
-
 
 
   - title: Experience # Title for the section
@@ -109,12 +100,6 @@ content:
             - REST API backend forthe Branch Catalogue using ASP.NET and MongoDB.
 
       
-
-
-
-
-
-
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
