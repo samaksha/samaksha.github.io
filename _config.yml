@@ -103,7 +103,6 @@ content:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: SME PLATFORM 
         link: play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
