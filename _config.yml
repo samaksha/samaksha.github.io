@@ -108,7 +108,8 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
+        border: weak
         title: SME PLATFORM 
         link: play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
         link_text: play.google.com/sme
@@ -122,11 +123,12 @@ content:
         # quote: >
          # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-          - Built a PHP/MySQL Ecommerce site for SME with authentication.
-          - Used by a startup to offerthere services with 100+ downloads and 30+ daily users.
-          - Responsive Design using HTML, CSS-flexbox, Bootstrap.
+          Last year I took on the task of rebuilding an existing application that services over 100 customers. I worked on updating the frontend, backend and design. This project had a very tight time scale and I was able to complete it in very good time while providing regular updates. I then built this to a high standard which lead to a seamless switch over from the previous system with no issues. The site was built using PHP/MySQL and I have used Azure to deploy and host the site. 
 
-      - layout: left
+          I have used this experience to increase many  of my skills and also learn new things, most recently PHP and MySQL. I have particularly enjoyed designing my own website and implementing this to a high standard.
+
+      - layout: top-middle
+        border: weak
         title: CALCULATOR
         link: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
         link_text: github.com/samaksha/calculator
@@ -140,10 +142,9 @@ content:
          #quote: >
          # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-            - Designed and developed a Calculator using Javascript and CSS.
-            - Re-implemented the UI using Angular
+            Designed and developed a Calculator application using Javascript and CSS to clear the fundamentals of these technologies. Re-implement the UI in Angular
 
-      - layout: left
+      - layout: top-middle
         title: AUTONOMUS SPY BOT
         link: github.com/hackabit19/EDITH
         link_text: github.com/samaksha/bot
@@ -154,11 +155,12 @@ content:
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Worked as part of backend team at a startup
+        #quote: >
+          #Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-            - Enters a room and traverse’s the room outputting a map using LIDAR.
-            - Embedded systems and Computer vision used.
+            Worked as part of team EDITH consisting of 4 people with a diverse skill set in HackAbit hackathon. This Bot enters a room and traverse's the room outputting a map using LIDAR this could prove very helpful in survellience
+
+            The final bot was built using embedded systems and computer vision. The output could have been much better with the use of machine learning and LIDAR technology.
 
 
 
