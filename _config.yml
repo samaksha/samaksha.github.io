@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/1597822945430.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kumar Samaksha and I'm a Software Engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
@@ -101,60 +101,60 @@ content:
 
       
 
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: left
-#         title: SME PLATFORM 
-#         link: play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  github.com/samaksha
-#             icon: fab fa-github
-#             url: github.com/samaksha/Internshala
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           Worked as part of backend team at a startup
-#         description: | # this will include new lines to allow paragraphs
-#           - Built a PHP/MySQL Ecommerce site for SME with authentication.
-#           - Used by a startup to offerthere services with 100+ downloads and 30+ daily users.
-#           - Responsive Design using HTML, CSS-flexbox, Bootstrap.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: SME PLATFORM 
+        link: play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/samaksha
+            icon: fab fa-github
+            url: github.com/samaksha/Internshala
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Worked as part of backend team at a startup
+        description: | # this will include new lines to allow paragraphs
+          - Built a PHP/MySQL Ecommerce site for SME with authentication.
+          - Used by a startup to offerthere services with 100+ downloads and 30+ daily users.
+          - Responsive Design using HTML, CSS-flexbox, Bootstrap.
 
-#       - layout: left
-#         title: CALCULATOR
-#         link: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
-#         # link_text: Project Website
-#         additional_links:
-#         - title:  github.com/samaksha
-#           icon: fab fa-github
-#           url: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
-#         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#         #   icon: fab fa-github
-#         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#         Worked as part of backend team at a startup
-#         description: | # this will include new lines to allow paragraphs
-#         - Designed and developed a Calculator using Javascript and CSS.
-#         - Re-implemented the UI using Angular
+      - layout: left
+        title: CALCULATOR
+        link: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
+        # link_text: Project Website
+        additional_links:
+        - title:  github.com/samaksha
+          icon: fab fa-github
+          url: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Worked as part of backend team at a startup
+        description: | # this will include new lines to allow paragraphs
+            - Designed and developed a Calculator using Javascript and CSS.
+            - Re-implemented the UI using Angular
 
-#       - layout: left
-#         title: AUTONOMUS SPY BOT
-#         link: github.com/hackabit19/EDITH
-#         # link_text: Project Website
-#         additional_links:
-#         - title:  github.com/samaksha
-#           icon: fab fa-github
-#           url: github.com/hackabit19/EDITH
-#         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#         #   icon: fab fa-github
-#         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#         Worked as part of backend team at a startup
-#         description: | # this will include new lines to allow paragraphs
-#         - Enters a room and traverse’s the room outputting a map using LIDAR.
-#         - Embedded systems and Computer vision used.
+      - layout: left
+        title: AUTONOMUS SPY BOT
+        link: github.com/hackabit19/EDITH
+        # link_text: Project Website
+        additional_links:
+        - title:  github.com/samaksha
+          icon: fab fa-github
+          url: github.com/hackabit19/EDITH
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Worked as part of backend team at a startup
+        description: | # this will include new lines to allow paragraphs
+            - Enters a room and traverse’s the room outputting a map using LIDAR.
+            - Embedded systems and Computer vision used.
 
 
 
