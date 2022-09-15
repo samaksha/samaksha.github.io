@@ -31,7 +31,7 @@ linkedin_username: samaksha
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fa-adobe
+  icon: fab fa-adobe
   url: https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -115,7 +115,7 @@ content:
         link_text: github.com/samaksha/sme
         additional_links:
           - title:  github.com/samaksha/smeplay.google.com/sme
-            icon: fa-brands fa-android
+            icon: fab fa-android
             url: https://play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
