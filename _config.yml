@@ -31,8 +31,8 @@ linkedin_username: samaksha
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas fa-adobe
-  url: https://samaksha.github.io/
+  icon: fa-adobe
+  url: https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -60,7 +60,7 @@ content:
         title: BIRLA INSTITUTE OF TECHNOLOGY
         caption: 2018 - 2022, 7.8 CGPA
         sub_title: BTech Electronics and Communication
-        quote: >
+        # quote: >
            # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at BIT Mesra I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
@@ -80,7 +80,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: August 2022 - Present
-        quote: >
+        # quote: >
           # Worked as a part of Core team on frontend and backend
         description: | # this will include new lines to allow paragraphs
             Working at IntelliH as a front end engineer focusing mostly on a patient monitoring product called PatientX. I have the opportuntity 
@@ -96,7 +96,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer Intern
         caption: Jan 2022 - Jun 2022
-        quote: >
+        # quote: >
           # Worked on Fastenal Branch Catalogue POC project as part of WebPOS team
         description: | # this will include new lines to allow paragraphs
             For 6 months I was working on delivering a standalone web product called Fastenal branch catalogue. This has been buillt from the ground up using .NET to provide a backend API and Angular for the frontend. I also gained a lot of experience with MongoDB in the backend. 
@@ -111,16 +111,16 @@ content:
       - layout: left
         title: SME PLATFORM 
         link: play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
-        # link_text: Project Website
+        link_text: play.google.com/sme
         additional_links:
-          - title:  github.com/samaksha
+          - title:  github.com/samaksha/sme
             icon: fab fa-github
             url: github.com/samaksha/Internshala
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Worked as part of backend team at a startup
+        # quote: >
+         # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
           - Built a PHP/MySQL Ecommerce site for SME with authentication.
           - Used by a startup to offerthere services with 100+ downloads and 30+ daily users.
@@ -129,7 +129,7 @@ content:
       - layout: left
         title: CALCULATOR
         link: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
-        # link_text: Project Website
+        link_text: github.com/samaksha/calculator
         additional_links:
         - title:  github.com/samaksha
           icon: fab fa-github
@@ -137,8 +137,8 @@ content:
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Worked as part of backend team at a startup
+         #quote: >
+         # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
             - Designed and developed a Calculator using Javascript and CSS.
             - Re-implemented the UI using Angular
@@ -146,7 +146,7 @@ content:
       - layout: left
         title: AUTONOMUS SPY BOT
         link: github.com/hackabit19/EDITH
-        # link_text: Project Website
+        link_text: github.com/samaksha/bot
         additional_links:
         - title:  github.com/samaksha
           icon: fab fa-github
