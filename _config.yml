@@ -111,12 +111,12 @@ content:
       - layout: top-middle
         border: weak
         title: SME PLATFORM 
-        link: play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
-        link_text: play.google.com/sme
+        link: https://github.com/samaksha/Internshala
+        link_text: github.com/samaksha/sme
         additional_links:
-          - title:  github.com/samaksha/sme
-            icon: fab fa-github
-            url: github.com/samaksha/Internshala
+          - title:  github.com/samaksha/smeplay.google.com/sme
+            icon: fa-brands fa-android
+            url: https://play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
