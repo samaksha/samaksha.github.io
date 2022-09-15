@@ -182,7 +182,15 @@ content:
       *OTHER ACHIEVEMENTS*
         - Globalrank 2529/34K+ in Facebook Hacker Cup 2021
         - Globalrank 1424/20K+ (Top 6%) in Codeforces round 734
-        - Globalrank 1696/16K+ (Top 10%) in Google Kickstart 202
+        - Globalrank 1696/16K+ (Top 10%) in Google Kickstart 2020
+        
+  - title: When I'm Not Programming
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      
+     When I am not at my desk, I like to be active outdoors. I picked up table tennis and volleyball during my college time and have represented my school in inter-city badminton competition. I have love tech and entrepreneurship new technologies and business are fascinating to me. 
+
+     I love to meet new people It's always an eye opening experience talking to people from different background and gaining insights in various fields.
 
 # Footer
 footer_show_references: true
