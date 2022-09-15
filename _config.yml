@@ -9,13 +9,13 @@ version: 2
 name: Kumar Samaksha
 title: Full Stack Web Developer
 email: kumarsamaksha21@gmail.com
-phone : +91 7004903719
+phone: +91 7004903719
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username:  samaksha
+github_username: samaksha
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -30,9 +30,9 @@ linkedin_username: samaksha
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fab fa-adobe
-  url: https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=sharing
+  - title: itsgoingto.be
+    icon: fab fa-adobe
+    url: https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,9 +49,8 @@ about_profile_image: images/1597822945430.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Kumar Samaksha, I'm a software engineer with experience in .NET and Angular development. I am currently working  for IntelliH as a full stack web developer on their patient monitoring product called PatientX.
 
-  I enjoy understanding how systems work that is performant and secure whilst also giving users an enjoyable experience. I had worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new.
-  The things that I currently have experience working with are : Javascript, Angular, .NET, Python, C++, MySQL, git and Azure
-
+  I enjoy understanding how systems work that is performant and secure whilst also giving users an enjoyable experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new.
+  The things that I currently have experience working with are : <mark>Javascript</mark>, <mark>Angular</mark>, <mark>.NET</mark>, <mark>Python</mark>, <mark>C++</mark>, <mark>MySQL</mark>, <mark>GIT</mark> and <mark>Azure</mark>
 
 content:
   - title: Education # Title for the section
@@ -62,14 +61,11 @@ content:
         caption: 2018 - 2022, 7.8 CGPA
         sub_title: BTech Electronics and Communication
         # quote: >
-           # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at BIT Mesra I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
-    
+
           I spent a lot of my free time with the Robotics Club. I spent 3 years on the Team as a Technical Member and then Mentoring the newcomers. During this time I took on roles from Participating in robotics competition to organising a event for college tech fest.
-  
-
-
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,14 +78,14 @@ content:
         sub_title: Software Engineer
         caption: August 2022 - Present
         # quote: >
-          # Worked as a part of Core team on frontend and backend
+        # Worked as a part of Core team on frontend and backend
         description: | # this will include new lines to allow paragraphs
-            Working at IntelliH as a front end engineer focusing mostly on a patient monitoring product called PatientX. I have the opportuntity 
-            to help drive the team forward and work with the PM.
+          Working at IntelliH as a front end engineer focusing mostly on a patient monitoring product called PatientX. I have the opportuntity 
+          to help drive the team forward and work with the PM.
 
-            I spent working on various area of a large application. The frontend is a Angular app that talks to an API built using a collection of .NET microservices. I have spent time working in mutliparts of the stack including helping to implementing a microservice from scratch.
+          I spent time working on various areas of a large application. The frontend is a <mark>Angular</mark> app that talks to an API built using a collection of <mark>.NET</mark> microservices. I have spent time working in mutliparts of the stack including helping to implement a microservice from scratch.
 
-            I enjoy learning about all areas of our application which allows me to be go-to person for knowledge and queries within my team and the other teams. I am always looking to suggest improvements and challenging what and how we are working to make sure we are delivering the best service to the customers.
+          I enjoy learning about all areas of our application which allows me to be go-to person for knowledge and queries within my team and the other teams. I am always looking to suggest improvements and challenging what and how we are working to make sure we are delivering the best service to the customers.
 
       - layout: left
         title: Fastenal
@@ -98,35 +94,33 @@ content:
         sub_title: Software Engineer Intern
         caption: Jan 2022 - Jun 2022
         # quote: >
-          # Worked on Fastenal Branch Catalogue POC project as part of WebPOS team
+        # Worked on Fastenal Branch Catalogue POC project as part of WebPOS team
         description: | # this will include new lines to allow paragraphs
-            For 6 months I was working on delivering a standalone web product called Fastenal branch catalogue. This has been buillt from the ground up using .NET to provide a backend API and Angular for the frontend. I also gained a lot of experience with MongoDB in the backend. 
+          For 6 months I was working on delivering a standalone web product called Fastenal branch catalogue. This has been built from the ground up using <mark>.NET</mark> to provide a backend API and <mark>Angular</mark> for the frontend. I also gained a lot of experience with <mark>MongoDB</mark> in the backend. 
 
-            During the project I spent time writing the technical Specifications and also collecting Project Requirements. I feel this a useful skill to have as it helps me to become a even more well-rounded developer.
-
-      
+          During the project I spent time writing the technical Specifications and also collecting Project Requirements. I feel this is a useful skill to have as it helps me to become an even more well-rounded developer.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         border: weak
-        title: SME PLATFORM 
+        title: SME PLATFORM
         link: https://github.com/samaksha/Internshala
         link_text: github.com/samaksha/sme
         additional_links:
-          - title:  github.com/samaksha/smeplay.google.com/sme
+          - title: github.com/samaksha/smeplay.google.com/sme
             icon: fab fa-android
             url: https://play.google.com/store/apps/details?id=in.co.sabjiwalaa.twa
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
-         # Worked as part of backend team at a startup
+        # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-          Last year I took on the task of rebuilding an existing application that services over 100 customers. I worked on updating the frontend, backend and design. This project had a very tight time scale and I was able to complete it in very good time while providing regular updates. I then built this to a high standard which lead to a seamless switch over from the previous system with no issues. The site was built using PHP/MySQL and I have used Azure to deploy and host the site. 
+          Last year I took on the task of rebuilding an existing application that services over 100 customers. I worked on updating the frontend, backend and design. This project had a very tight time scale and I was able to complete it in very good time while providing regular updates. I then built this to a high standard which lead to a seamless switch over from the previous system with no issues. The site was built using <mark>PHP/MySQL</mark> and I have used <mark>Azure</mark> to deploy and host the site. 
 
-          I have used this experience to increase many  of my skills and also learn new things, most recently PHP and MySQL. I have particularly enjoyed designing my own website and implementing this to a high standard.
+          I have used this experience to increase many  of my skills and also learn new things, most recently <mark>PHP</mark> and <mark>MySQL</mark>. I have particularly enjoyed designing my own website and implementing this to a high standard.
 
       - layout: top-middle
         border: weak
@@ -134,42 +128,40 @@ content:
         link: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
         link_text: github.com/samaksha/calculator
         additional_links:
-        - title:  github.com/samaksha
-          icon: fab fa-github
-          url: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-         #quote: >
-         # Worked as part of backend team at a startup
-        description: | # this will include new lines to allow paragraphs
-            Designed and developed a Calculator application using Javascript and CSS to clear the fundamentals of these technologies. Re-implement the UI in Angular
-
-      - layout: top-middle
-        title: AUTONOMUS SPY BOT
-        link: github.com/hackabit19/EDITH
-        link_text: github.com/samaksha/bot
-        additional_links:
-        - title:  github.com/samaksha
-          icon: fab fa-github
-          url: github.com/hackabit19/EDITH
+          - title: github.com/samaksha
+            icon: fab fa-github
+            url: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         #quote: >
-          #Worked as part of backend team at a startup
+        # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-            Worked as part of team EDITH consisting of 4 people with a diverse skill set in HackAbit hackathon. This Bot enters a room and traverse's the room outputting a map using LIDAR this could prove very helpful in survellience
+          Designed and developed a Calculator application using <mark>Javascript</mark> and <mark>CSS</mark> to clear the fundamentals of these technologies. Re-implement the UI in <mark>Angular</mark>
 
-            The final bot was built using embedded systems and computer vision. The output could have been much better with the use of machine learning and LIDAR technology.
+      - layout: top-middle
+        title: AUTONOMOUS SPY BOT
+        link: github.com/hackabit19/EDITH
+        link_text: github.com/samaksha/bot
+        additional_links:
+          - title: github.com/samaksha
+            icon: fab fa-github
+            url: github.com/hackabit19/EDITH
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #Worked as part of backend team at a startup
+        description: | # this will include new lines to allow paragraphs
+          Worked as part of team EDITH consisting of 4 people with a diverse skill set in HackAbit hackathon. This Bot enters a room and traverse's the room outputting a map using LIDAR this could prove very helpful in surveillance
 
-
+          The final bot was built using <mark>embedded systems</mark> and <mark>computer vision</mark>. The output could have been much better with the use of machine learning and LIDAR technology.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       **ACHIEVEMENTS**
-      
+
       *ABU ROBOCON 2020 | Member | Robolution*
         - Participated in the Largest robotics competition in Asia
         - India rank 28/300 in ABU Robocon round 1
@@ -183,14 +175,15 @@ content:
         - Globalrank 2529/34K+ in Facebook Hacker Cup 2021
         - Globalrank 1424/20K+ (Top 6%) in Codeforces round 734
         - Globalrank 1696/16K+ (Top 10%) in Google Kickstart 2020
-        
+
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      
-        When I am not at my desk, I like to be active outdoors. I picked up table tennis and volleyball during my college time and have represented my school in inter-city badminton competition. I have love tech and entrepreneurship new technologies and business are fascinating to me. 
 
-        I love to meet new people It's always an eye opening experience talking to people from different background and gaining insights in various fields.
+
+      When I am not at my desk, I like to be active outdoors. I picked up table tennis and volleyball during my college time and have represented my school in inter-city badminton competition. I have tech and entrepreneurship, New technologies and business are fascinating to me. 
+
+      I love to meet new people.It's always an eye opening experience talking to people from different backgrounds and gaining insights in various fields.
 
 # Footer
 footer_show_references: true
@@ -204,5 +197,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
-
+  - jekyll-seo-tag
