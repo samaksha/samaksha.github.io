@@ -75,6 +75,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: INTELLIH
         link: Intellihinc.com
         # link_text: boringcompany.com
@@ -83,8 +84,8 @@ content:
         quote: >
           Worked as a part of Core team on frontend and backend
         description: | # this will include new lines to allow paragraphs
-            -Reduced the risk of worsening condition by constant monitoring and automating alerts to hospital staff and patients.
-            -Built the widget using Angular and backend using ASP.NET and SQL.
+            - Reduced the risk of worsening condition by constant monitoring and automating alerts to hospital staff and patients.
+            - Built the widget using Angular and backend using ASP.NET, Angular and SQL.
 
       - layout: left
         titile : Fastenal
