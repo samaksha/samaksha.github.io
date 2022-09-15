@@ -7,10 +7,9 @@ version: 2
 
 # Personal info
 name: Kumar Samaksha
-title: Software Engineer
+title: Full Stack Web Developer
 email: kumarsamaksha21@gmail.com
-website: https://samaksha.github.io/
-Phone : +91 7004903719
+phone : +91 7004903719
 # Dark Mode (true/false/never)
 darkmode: true
 
@@ -32,8 +31,8 @@ linkedin_username: samaksha
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  icon: fas fa-adobe
+  url: https://samaksha.github.io/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -62,11 +61,11 @@ content:
         caption: 2018 - 2022, 7.8 CGPA
         sub_title: BTech Electronics and Communication
         quote: >
-           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+           # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my stay at the college, I learnt tons of new things, related to both academics and co-curricular activities.
-
-          I spent a lot of my free time as a Technical member of the *Robotics Club* and also taking on the role of a *Mentor*.
+          During my time at BIT Mesra I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
+    
+          I spent a lot of my free time with the Robotics Club. I spent 3 years on the Team as a Technical Member and then Mentoring the newcomers. During this time I took on roles from Participating in robotics competition to organising a event for college tech fest.
   
 
 
@@ -82,23 +81,27 @@ content:
         sub_title: Software Engineer
         caption: August 2022 - Present
         quote: >
-          Worked as a part of Core team on frontend and backend
+          # Worked as a part of Core team on frontend and backend
         description: | # this will include new lines to allow paragraphs
-            - Reduced the risk of worsening condition by constant monitoring and automating alerts to hospital staff and patients.
-            - Built the widget using Angular and backend using ASP.NET, Angular and SQL.
+            Working at IntelliH as a front end engineer focusing mostly on a patient monitoring product called PatientX. I have the opportuntity 
+            to help drive the team forward and work with the PM.
+
+            I spent working on various area of a large application. The frontend is a Angular app that talks to an API built using a collection of .NET microservices. I have spent time working in mutliparts of the stack including helping to implementing a microservice from scratch.
+
+            I enjoy learning about all areas of our application which allows me to be go-to person for knowledge and queries within my team and the other teams. I am always looking to suggest improvements and challenging what and how we are working to make sure we are delivering the best service to the customers.
 
       - layout: left
-        titile : Fastenal
-        link: fastenal.com
+        title: Fastenal
+        link: Fastenal.com
         # link_text: boringcompany.com
         sub_title: Software Engineer Intern
         caption: Jan 2022 - Jun 2022
         quote: >
-          Worked on Fastenal Branch Catalogue POC project as part of WebPOS team
+          # Worked on Fastenal Branch Catalogue POC project as part of WebPOS team
         description: | # this will include new lines to allow paragraphs
-            - Built Angular and ASP.NET application for displaying home branches for users.
-            - Designed and Implemented an SPA with User Dashboard, Signin and Signup page, Authentication, Password Reset.
-            - REST API backend forthe Branch Catalogue using ASP.NET and MongoDB.
+            For 6 months I was working on delivering a standalone web product called Fastenal branch catalogue. This has been buillt from the ground up using .NET to provide a backend API and Angular for the frontend. I also gained a lot of experience with MongoDB in the backend. 
+
+            During the project I spent time writing the technical Specifications and also collecting Project Requirements. I feel this a useful skill to have as it helps me to become a even more well-rounded developer.
 
       
 
