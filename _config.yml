@@ -124,20 +124,20 @@ content:
 
       - layout: top-middle
         border: weak
-        title: CALCULATOR
-        link: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
-        link_text: github.com/samaksha/calculator
+        title: S3-Drive
+        link: github.com/samaksha/S3-Drive
+        link_text: github.com/samaksha/S3-Drive
         additional_links:
           - title: github.com/samaksha
             icon: fab fa-github
-            url: github.com/samaksha/C-/tree/master/KnowledgeBase/Js
+            url: github.com/samaksha/S3-Drive
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         #quote: >
         # Worked as part of backend team at a startup
         description: | # this will include new lines to allow paragraphs
-          Designed and developed a Calculator application using <mark>Javascript</mark> and <mark>CSS</mark> to clear the fundamentals of these technologies. Re-implement the UI in <mark>Angular</mark>
+          Built a <mark>NodeJs/MongoDB</mark> file upload and short link generation platform with authentication. Frontend end with Angular and used <mark>AWS S3</mark> for object storage.
 
       - layout: top-middle
         title: AUTONOMOUS SPY BOT
